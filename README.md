@@ -23,7 +23,7 @@ Whether you're a beginner or looking to expand your knowledge, this repository a
  **Amazon S3 (Simple Storage Service):**
    - Storing and retrieving data objects.
    - Configuring buckets and access controls.
-   - 
+
  **Amazon Route 53:**
    - Domain Name System (DNS) service.
    - Registering and managing domain names.
@@ -40,33 +40,33 @@ Whether you're a beginner or looking to expand your knowledge, this repository a
    - Configuring caching and distribution settings.
 
  **Amazon RDS (Relational Database Service):**
-    - Managed relational database service.
-    - Setting up, managing, and scaling relational databases.
+   - Managed relational database service.
+   - Setting up, managing, and scaling relational databases.
 
  **Amazon ACM (AWS Certificate Manager):**
-    - Managing SSL/TLS certificates for your AWS resources.
-    - Requesting and configuring certificates.
+   - Managing SSL/TLS certificates for your AWS resources.
+   - Requesting and configuring certificates.
 
  **AWS Lambda:**
-    - Serverless compute service.
-    - Running code without provisioning or managing servers.
-    - Event-driven programming model.
+   - Serverless compute service.
+   - Running code without provisioning or managing servers.
+   - Event-driven programming model.
 
  **Amazon ECS (Elastic Container Service):**
-    - Container orchestration service.
-    - Deploying, managing, and scaling Docker containers.
+   - Container orchestration service.
+   - Deploying, managing, and scaling Docker containers.
 
  **AWS KMS (Key Management Service):**
-    - Managing encryption keys.
-    - Encrypting and decrypting data at rest and in transit.
+   - Managing encryption keys.
+   - Encrypting and decrypting data at rest and in transit.
 
  **Amazon CloudTrail:**
-    - Logging and auditing service.
-    - Recording API calls and events for governance, compliance, and security analysis.
+   - Logging and auditing service.
+   - Recording API calls and events for governance, compliance, and security analysis.
 
  **Amazon DynamoDB:**
-    - Fully managed NoSQL database service.
-    - Creating, querying, and scaling distributed databases
+   - Fully managed NoSQL database service.
+   - Creating, querying, and scaling distributed databases
     
 ### Linux Administration:
 
